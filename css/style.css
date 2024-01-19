@@ -547,6 +547,9 @@ footer a:hover{
 }
 
 @media (max-width:900px) {
+    body {
+        background-size: cover:
+    }
     main .section h1 {
         font-size: 2em;
     }
